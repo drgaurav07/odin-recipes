@@ -1,0 +1,4 @@
+I am new to the world of coding and web design.
+So far I have learnt something on using the terminal, which i find it quite handy. The only problem is i keep forgetting the commands. I do remember few that help me navigate and make new directories/folders and files
+I also have learnt the basics of html and how to set up a website page and link texts/websites and images to it. 
+I want to learn more on how to make the website more attractive.I also want ot learn how to generate images (not just copy and paste) but also to make them from a scratch, just like how a painter makes a painting on a blank canvas.i dont want to use softwares to do it but want to use codes to do it- if thats possible.
